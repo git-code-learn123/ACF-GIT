@@ -1,13 +1,14 @@
 # ACF-GIT
 Contribute to this repository
 
-Please Enter Your Name
+Please Enter Your Name.
 
-
-T.I.D Silva
-
-Yoshitha Rathnayake
 
 Seyed Akeel
 
+Yoshitha Rathnayake
+
+T.I.D Silva
+
 Janitha Wijayawardana
+
