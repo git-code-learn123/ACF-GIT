@@ -5,12 +5,11 @@
 
 > Please Enter Your Name here.
 
+1. Seyed Akeel
 
-Seyed Akeel
+2. Yoshitha Bandara Rathnayake
 
-Yoshitha Bandara Rathnayake
+3. T.I.D Silva
 
-T.I.D Silva
-
-Janitha Wijayawardana
+4. Janitha Wijayawardana
 
