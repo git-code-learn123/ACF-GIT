@@ -1,18 +1,16 @@
-                                                                            # SACK ACF GIT
+# SACK ACF GIT
 
-> Contribute to this repository
+> Contribute to this repository.
 
 
 > Please Enter Your Name here.
 
 
-1. SACK ACF (Owner)
+1. Seyed Akeel 
 
-2. Seyed Akeel (Contributor)
+2. Yoshitha Rathnayake 
 
-3. Yoshitha Bandara Rathnayake (Contributor)
+3. T.I.D Silva 
 
-4. T.I.D Silva (Contributor)
-
-5. Janitha Wijayawardana (Contributor)
+4. Janitha Wijayawardana 
 
